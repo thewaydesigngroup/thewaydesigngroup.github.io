@@ -1058,6 +1058,15 @@ section {
   background-size: cover;
   background-position: center center;
   min-height: 400px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.alt-services .img-text {
+  vertical-align: bottom;
+  position: absolute;
+  color: black;
 }
 
 .alt-services h3 {
