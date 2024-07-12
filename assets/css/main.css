@@ -667,6 +667,15 @@ section {
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
+@media (max-width: 575px) {
+  .services .container .row {
+    text-align: center;
+    margin-left: 7px;
+    margin-right: 0;
+  }
+}
+
+
 .services .service-item {
   padding: 40px;
   background: #fff;
