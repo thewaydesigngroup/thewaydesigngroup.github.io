@@ -2665,16 +2665,15 @@ section {
   color: var(--color-primary);
 }
 
-.g-form-container {
+/* .g-form-container {
   position: relative;
   width: 100%;
   overflow: hidden;
   padding-top: 100%;
   height: 1000px;
-  /* 1:1 Aspect Ratio */
-}
+} */
 
-.responsive-iframe {
+/* .responsive-iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -2683,4 +2682,4 @@ section {
   width: 100%;
   height: 100%;
   border: none;
-}
+} */
